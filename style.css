@@ -1,0 +1,60 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,body{
+  height: 100%;
+  width: 100%;
+}
+
+#one {
+  color: aqua;
+}
+#facebook{
+  color: blue;
+}
+.a{
+  color: red;
+}
+sub{
+  color: hotpink;
+}
+h2{
+  color: rgb(255, 136, 0);
+  font-size: 25px;
+  background-color: aquamarine;
+  font-family: monument;
+  font-weight: 500;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+
+
+ 
+  
+
+}
+#box{
+  height: 100px;
+  width: 200px;
+  background-color: aqua;
+padding: 20px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+#ph{
+  height: 200px;
+  width: 200px;
+}
+#bi{
+  height: 100px;
+  width: 200px;
+  padding: 20px;
+  position: right;
+  top: 50%;
+  left: 50%;
+}
